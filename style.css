@@ -1,0 +1,10 @@
+.container-fluid {
+    background-color: #BCC410;
+}
+.navbar-default .navbar-nav>.active>a{
+    background-color:  #BCC410;
+    color: white;
+}
+img {
+    /*width: 70%;*/
+}
