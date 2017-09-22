@@ -5,6 +5,12 @@
     background-color:  #BCC410;
     color: white;
 }
-img {
-    /*width: 70%;*/
+.melon {
+    text-align:center;
+    width:75%;
+}
+
+.glyphicon {
+    top:50%;
+    left:18%;
 }
